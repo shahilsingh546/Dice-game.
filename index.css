@@ -1,0 +1,33 @@
+body
+{
+    background-color: #FA573E;
+}
+h1
+{
+    text-align: center;
+    margin: 30px;
+    font-family: 'Kavoon', cursive;
+    line-height: 5rem;
+    font-weight: bolder;
+    font-size: 50px ;
+    /* color: #70A4FA; */
+}
+
+.player
+{
+    text-align: center;
+    margin: 100px;
+    font-size: 2rem;
+    font-family: 'Sacramento', cursive;
+color:#CEFA57 ;
+}
+ .dice-icon 
+{
+    text-align: center;
+    width: 60%;
+} 
+.about
+{
+    text-align: center;
+    margin-top: 100px;
+}
